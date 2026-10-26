@@ -249,6 +249,10 @@ msgid ""
 "defined) followed by a colon, ``:``. The definition to the right of the "
 "colon uses the following syntax elements:"
 msgstr ""
+"TODO: continuar por aquí"
+"Each rule begins with a name (which identifies the rule that's being "
+"defined) followed by a colon, ``:``. The definition to the right of the "
+"colon uses the following syntax elements:"
 
 #: ../Doc/reference/introduction.rst:116
 msgid ""
